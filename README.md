@@ -1,4 +1,5 @@
--  Hi, I’m @PouchLol
-- I'm currently learning web development and trying to get into this field but this stuff is hard bro
-- I'm pouch_lol on discord
+ Hi, I’m Karthik Harish
 
+I'm an undergraduate in Computer Science and I'm aspiring to be a full stack web developer! I love to code and play chess in my freetime.
+
+Talk to me on twitter or on discord! im @KarthikHarish04 on twitter
